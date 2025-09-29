@@ -1,0 +1,56 @@
+    .stretchBtn { 
+        background-color: rgb(0, 133, 29);
+        color: white; 
+        border: none;
+        border-radius: 2px; 
+        padding: 10px 16px;
+        cursor: pointer; 
+        margin-right: 10px;
+        vertical-align: top;
+        transition: padding-top 1s, padding-bottom 1s, padding-left 1s, padding-right 1s;
+    }
+    .stretchBtn:hover {
+        padding-top: 18px;
+        padding-bottom: 18px;
+        padding-left: 36px;
+        padding-right: 36px;
+  }
+    .shadowBtn { 
+        background-color: rgb(0, 133, 29);
+        color: white; 
+        border: none;
+        border-radius: 2px; 
+        padding: 10px 16px;
+        cursor: pointer; 
+        margin-right: 10px;
+        vertical-align: top;
+        box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+    }
+    .shadowBtn:active { 
+        margin-top: 3px;
+        margin-left: 3px;
+        box-shadow: none;
+    }
+    .oneBtn { 
+        background-color: rgb(0, 133, 29);
+        color: white; 
+        border: none;
+        border-radius: 2px; 
+        padding-top: 8px;
+        padding-bottom: 8px;
+        cursor: pointer; 
+        margin-right: 10px;
+        vertical-align: top;
+        transition: padding 0.15s, margin 0.15s;
+                
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .oneBtn:hover {
+        padding-left: 25px;
+        padding-right: 25px;
+        margin-left: 0px;
+        margin-right: 0px;
+  }

@@ -1,0 +1,59 @@
+    a {
+        font-size: 20px;
+        color: rgb(0, 113, 133);
+        margin-bottom: 10px;
+    }
+    a:hover { 
+        color: rgb(194, 111, 2);
+    }
+    a:active { 
+        opacity: 0.4;
+    }  
+    .nikePrgaph { 
+        font-size: 30px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+    .inStockPrgaph { 
+        font-size: 20px;
+        font-weight: bold;
+        color: rgb(0, 118, 0);
+        margin-bottom: 10px;
+
+    }
+    .deliveryPrgaph { 
+        font-size: 20px;
+    }
+    .cartBtn { 
+        font-size: 20px;
+        background-color: rgb(255, 216, 20);
+        border: none;
+        border-radius: 50px;
+        color: black;
+        height: 38px;
+        width: 170px;
+        cursor: pointer;
+        margin-right: 10px;
+    }
+    .cartBtn:hover { 
+        background-color: rgb(236, 200, 20);
+    }
+    .cartBtn:active { 
+        opacity: 0.8;
+    }  
+    .buyNowBtn { 
+        font-size: 20px;
+        background-color: rgb(255, 164, 29);
+        border: none;
+        border-radius: 50px;
+        color: black;
+        height: 38px;
+        width: 170px;
+        cursor: pointer;
+    }
+    .buyNowBtn:hover { 
+        background-color: rgb(216, 125, 22);
+    }
+    .buyNowBtn:active { 
+        opacity: 0.8;
+    }  

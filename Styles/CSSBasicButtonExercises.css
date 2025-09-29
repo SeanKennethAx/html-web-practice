@@ -1,0 +1,85 @@
+    .reqNowBtn { 
+        font-size: 15px;
+        background-color: black;
+        color: white; 
+        border: none;
+        height: 45px;
+        width: 125px;   
+        cursor: pointer; 
+        margin-right: 10px; 
+    }
+    .reqNowBtn:hover { 
+        opacity: 0.8;
+    }
+    .reqNowBtn:active { 
+        opacity: 0.4;
+    }   
+    .addToCartBtn {
+        font-size: 15px;
+        background-color: rgb(255, 216, 20);
+        border: none;
+        border-radius: 50px;
+        color: black;
+        height: 40px;
+        width: 180px;
+        cursor: pointer;
+        margin-right: 10px;
+    }
+    .addToCartBtn:hover { 
+        background-color: rgb(236, 200, 20);
+    }
+    .signUpBtn {
+        font-weight: bold;
+        font-size: 15px;
+        background-color: rgb(46, 164, 79);
+        border: none;
+        border-radius: 6px;
+        color: white;
+        height: 40px;
+        width: 90px;
+        cursor: pointer;
+        margin-right: 10px;
+    }
+    .signUpBtn:hover { 
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    }
+       .getStartedBtn {
+        font-weight: bold;
+        font-size: 15px;
+        background-color: rgb(121, 82, 179);
+        border: none;
+        border-radius: 5px;
+        color: white;
+        height: 40px;
+        width: 120px;
+        cursor: pointer;
+        margin-right: 10px;
+    }
+    .getStartedBtn:hover { 
+        background-color: rgb(107, 72, 160); ;
+    }
+    .getStartedBtn:active { 
+        opacity: 0.4;
+    }   
+        .downloadBtn { 
+        font-size: 15px;
+        font-weight: bold;
+        background-color: white;
+        border-color: rgb(108, 117, 125);
+        border-style: solid;
+        border-width: 1px;
+        border-radius: 10px;
+        color: rgb(108, 117, 125);
+        height: 40px; 
+        width: 120px;
+        border-radius: 2px;
+        cursor: pointer; 
+        margin-right: 10px;
+    }
+    .downloadBtn:hover { 
+        background-color: rgb(108, 117, 125);
+        color: white;
+    }
+    .downloadBtn:active { 
+        opacity: 0.4;
+    }  

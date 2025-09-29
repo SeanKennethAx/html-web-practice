@@ -1,0 +1,86 @@
+    p { 
+        font-family: Arial;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .newTxt { 
+        color: rgb(230, 132, 5); 
+        font-weight: bold;
+        margin-bottom: 10px;
+        text-align: center;
+
+    }
+    .macBookProTxt { 
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 10px;
+        text-align: center;
+
+    }
+    .superChargedTxt { 
+        font-size: 30px;
+        font-weight: bold;
+        margin-bottom: 10px;
+        text-align: center;
+
+    }
+    .dollarTxt { 
+        margin-bottom: 25px;
+        text-align: center;
+
+    }
+    .buyBtn { 
+        text-align: center;
+    }
+    .buyBtnSpan { 
+        background-color: rgb(8, 132, 233);
+        color: white;
+        border: none;
+        font-size: 15px;
+        font-weight: bold;
+        border-radius: 25px;
+        padding: 10px 15px 10px 15px;
+        text-align: center;
+    }
+    .usdTxt { 
+        font-size: 30px;
+        margin-bottom: 5px;
+    }
+    .usdTxtSpan { 
+        font-size: 15px;
+        font-weight: bold;
+        color: rgb(96, 96, 96);
+    }
+    .statsTxt { 
+        font-size: 15px;
+        color: green;
+        margin-bottom: 10px;
+    }
+    .afterHrsTxt { 
+        color: rgb(96, 96, 96);
+        font-size: 15px;
+        margin-bottom: 50px;
+    }
+    .afterHrsTxtSpan { 
+        font-size: 15px;
+        color: red  ;
+    }
+    .freeCodeCampTxt { 
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .freeCodeCampTxtSpan { 
+        font-size: 15px;
+        color: rgb(96, 96, 96);
+    }
+    .freeCodeDescription { 
+        font-size: 15px;
+        width: 500px;
+        margin-bottom: 20px;
+    }
+    .topSkillsTxt { 
+        font-size: 15px;
+    }
+    .topSkillsTxtSpan { 
+        color: rgb(0, 113, 133);
+    }
